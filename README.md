@@ -1,0 +1,2 @@
+# GNU-Stow
+- [NEVER lose dotfiles again with GNU Stow](https://youtu.be/NoFiYOqnC4o)
